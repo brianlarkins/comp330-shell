@@ -1,3 +1,4 @@
+CC=clang
 CFLAGS=-g -Wall -Werror
 
 lab1: lab1.o
